@@ -1,0 +1,63 @@
+<produtos>
+    <produto id="1">
+        <nome>Alternador 12V 70A</nome>
+        <descricao>Alternador de alta performance para carros, com 70A de corrente, compatível com modelos populares.</descricao>
+        <aplicacao>Sistemas elétricos de carros, recarga de bateria.</aplicacao>
+        <valor>350.00</valor>
+    </produto>
+    <produto id="2">
+        <nome>Kit de Embreagem Completo</nome>
+        <descricao>Kit de embreagem reforçado, incluindo disco, platô e rolamento, para maior durabilidade.</descricao>
+        <aplicacao>Transmissão de carros, substituição em veículos de carga leve.</aplicacao>
+        <valor>450.00</valor>
+    </produto>
+    <produto id="3">
+        <nome>Amortecedor Traseiro</nome>
+        <descricao>Amortecedor com tecnologia de amortecimento variável, ideal para terrenos irregulares.</descricao>
+        <aplicacao>Suspensão traseira de sedans e SUVs.</aplicacao>
+        <valor>180.00</valor>
+    </produto>
+    <produto id="4">
+        <nome>Bomba de Combustível Elétrica</nome>
+        <descricao>Bomba de combustível com fluxo otimizado, fabricada em material resistente à corrosão.</descricao>
+        <aplicacao>Sistema de alimentação de motores a gasolina e álcool.</aplicacao>
+        <valor>250.00</valor>
+    </produto>
+    <produto id="5">
+        <nome>Disco de Freio Ventilado</nome>
+        <descricao>Disco de freio ventilado de alta resistência, reduz o superaquecimento em frenagens intensas.</descricao>
+        <aplicacao>Sistema de frenagem de carros esportivos e utilitários.</aplicacao>
+        <valor>300.00</valor>
+    </produto>
+    <produto id="6">
+        <nome>Correia Dentada</nome>
+        <descricao>Correia de sincronismo reforçada, com alta durabilidade para motores a combustão.</descricao>
+        <aplicacao>Sincronização de motores de 4 cilindros.</aplicacao>
+        <valor>120.00</valor>
+    </produto>
+    <produto id="7">
+        <nome>Bateria 60Ah 12V</nome>
+        <descricao>Bateria automotiva selada, ideal para partida a frio e sistemas elétricos avançados.</descricao>
+        <aplicacao>Partida de motores e alimentação de acessórios elétricos.</aplicacao>
+        <valor>400.00</valor>
+    </produto>
+    <produto id="8">
+        <nome>Kit de Pastilhas de Freio</nome>
+        <descricao>Pastilhas de freio cerâmicas, com excelente resistência ao desgaste e desempenho silencioso.</descricao>
+        <aplicacao>Sistema de freios de carros compactos e médios.</aplicacao>
+        <valor>150.00</valor>
+    </produto>
+    <produto id="9">
+        <nome>Polia do Alternador</nome>
+        <descricao>Polia de alta precisão, projetada para reduzir vibrações no sistema de carga.</descricao>
+        <aplicacao>Sistemas elétricos de carros com alternadores de 70A a 100A.</aplicacao>
+        <valor>90.00</valor>
+    </produto>
+    <produto id="10">
+        <nome>Termostato do Motor</nome>
+        <descricao>Termostato termostático para controle preciso da temperatura do motor.</descricao>
+        <aplicacao>Sistema de arrefecimento de motores 1.0 a 2.0.</aplicacao>
+        <valor>70.00</valor>
+    </produto>
+    <!-- Continue expandindo até 1.000 produtos com variações de modelos, marcas e compatibilidades -->
+</produtos>
